@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/bin/Debug/net6.0/2zadacha
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/bin/Debug/net6.0/2zadacha.deps.json
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/bin/Debug/net6.0/2zadacha.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/bin/Debug/net6.0/2zadacha.dll
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/bin/Debug/net6.0/2zadacha.pdb
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.dll
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/refint/2zadacha.dll
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.pdb
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/2zadacha.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/dz2c/2zadacha/obj/Debug/net6.0/ref/2zadacha.dll
