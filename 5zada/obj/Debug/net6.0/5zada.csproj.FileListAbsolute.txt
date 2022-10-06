@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/dz2c/5zada/bin/Debug/net6.0/5zada
+/Users/mariannasarkisan/Desktop/dz2c/5zada/bin/Debug/net6.0/5zada.deps.json
+/Users/mariannasarkisan/Desktop/dz2c/5zada/bin/Debug/net6.0/5zada.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/dz2c/5zada/bin/Debug/net6.0/5zada.dll
+/Users/mariannasarkisan/Desktop/dz2c/5zada/bin/Debug/net6.0/5zada.pdb
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.dll
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/refint/5zada.dll
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.pdb
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/5zada.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/dz2c/5zada/obj/Debug/net6.0/ref/5zada.dll
